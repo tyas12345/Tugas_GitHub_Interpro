@@ -88,7 +88,7 @@
         	<h1>Jadwal SPMB</h1>
             <table class="table table-striped">
             	<tr>
-                	<th>Gelombang SPMB</th>
+                    <th>Nama Gelombang SPMB</th>
                     <th>Jenjang Pendidikan</th>
                     <th>Tanggal Pendaftaran</th>
                     <th>Tanggal Ujian Tulis-Wawancara</th>
